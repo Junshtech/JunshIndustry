@@ -100,11 +100,11 @@ h1, h2, h3, h4, h5, h6 {
   
 }
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(26, 38, 59, 0.9);
+  background: rgba(14, 23, 37, 0.9);
 }
 #header .logo {
   font-size: 30px;
-  margin: 0;
+  margin: -35px;
   padding: 0;
   line-height: 1;
   font-weight: 500;
@@ -127,6 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 */
 .navbar {
   padding: 0;
+  left: 400px;
 }
 .navbar ul {
   margin: 0;
